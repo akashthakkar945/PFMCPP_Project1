@@ -97,13 +97,13 @@ flower.wilt();
 flower.bendTowardSunlight();
 
 //  6)
-//  Noun: Bicycle
-//  action 1: the bike wobbles
-bike.wobble();
-//  action 2: the bike bounces over terrain
-bike.bounceOverTerrain();
-//  action 3: the bike rusts
-bike.rust();
+//  Noun: Ice Cream
+//  action 1: the ice cream melts in the sun
+iceCream.meltInSun();
+//  action 2: the ice cream drips off of a cone
+iceCream.dripsOffCone();
+//  action 3: the ice cream hardens in the freezer
+iceCream.hardenInFreezer();
 
 //  7)
 //  Noun: River
