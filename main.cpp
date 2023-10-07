@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Hand
+//  action 1: the hand grabs
+hand.grab();
+//  action 2: the hand curls into a fist
+hand.curlIntoFist();
+//  action 3: the hand claps
+hand.clap();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Tree
+//  action 1: the tree grows
+tree.grow();
+//  action 2: the tree sways
+tree.sway();
+//  action 3: the tree blossoms
+tree.blossom();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Window
+//  action 1: the window shows a reflection
+window.showReflection();
+//  action 2: the window shatters
+window.shatter();
+//  action 3: the window gets foggy
+window.getFoggy();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Umbrella
+//  action 1: the umbrella shields from the rain
+umbrella.shieldFromRain();
+//  action 2: the umbrella flutters in the wind
+umbrella.flutterInWind();
+//  action 3: the umbrella breaks due to heavy wind
+umbrella.breakFromWind();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Flower
+//  action 1: the flower blooms
+flower.bloom();
+//  action 2: the flower wilts
+flower.wilt();
+//  action 3: the flower bends towards sunlight
+flower.bendTowardSunlight();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Ice Cream
+//  action 1: the ice cream melts in the sun
+iceCream.meltInSun();
+//  action 2: the ice cream drips off of a cone
+iceCream.dripsOffCone();
+//  action 3: the ice cream hardens in the freezer
+iceCream.hardenInFreezer();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: River
+//  action 1: the river floods
+river.flood();
+//  action 2: the river freezes
+river.freeze();
+//  action 3: the river flows
+river.flow();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Robot
+//  action 1: the robot stores data
+robot.storeData();
+//  action 2: the robot communicates with humans
+robot.communicateWithHumans();
+//  action 3: the robot runs out of battery
+robot.runOutOfBattery();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Cloud
+//  action 1: the cloud dissipates
+cloud.dissipate();
+//  action 2: the cloud creates a shadow
+cloud.createShadow();
+//  action 3: the cloud darkens
+cloud.darken();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: Shoe
+//  action 1: the shoe absorbs shock
+shoe.absorbShock();
+//  action 2: the shoe cushions the foot
+shoe.cushionFoot();
+//  action 3: the shoe collects dirt
+shoe.collectDirt();
 
 
 #endif
